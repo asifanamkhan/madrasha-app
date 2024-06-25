@@ -79,15 +79,6 @@
 
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="nav navbar-nav ml-auto">
-                            {{-- <li class="nav-item active">
-                                <a class="nav-link" wire:navigate href="{{ route('counter') }}">Counter</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" wire:navigate href="{{ route('register') }}">Register</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link" wire:navigate href="{{ route('dropdown') }}">Dropdown</a>
-                            </li> --}}
                             <li class="nav-item">
 
                             </li>
